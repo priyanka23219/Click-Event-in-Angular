@@ -1,3 +1,5 @@
+![proj2_clickEvent](https://user-images.githubusercontent.com/75573132/112100360-08f79f80-8bcb-11eb-8866-59a46e2d1dc4.JPG)
+![proj2_Output](https://user-images.githubusercontent.com/75573132/112100673-7a375280-8bcb-11eb-8fdc-aeb43c1406df.JPG)
 # Project2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
